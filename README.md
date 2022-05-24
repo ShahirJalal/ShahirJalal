@@ -1,4 +1,4 @@
-Hi 👋 My name is Shahir Jalal
+Hi. My name is Shahir Jalal
 =============================
 
 Self-taught Developer
