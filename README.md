@@ -1,7 +1,7 @@
 Hi. My name is Shahir Jalal
 =============================
 
-Self-taught Developer
+Developer
 ---------------------
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
