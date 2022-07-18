@@ -13,6 +13,8 @@ Developer
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="NumPy" /></a>
+<a href="hhttps://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="36" height="36" alt="Pandas" /></a>
 </p>
 
 
