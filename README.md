@@ -28,6 +28,7 @@ Developer
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://www.herokucdn.com/favicon.ico" width="36" height="36" alt="Heroku" /></a>
 </p>
+<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" width="36" height="36" alt="Stripe" /></a> </p>
 
 ### Socials
 
