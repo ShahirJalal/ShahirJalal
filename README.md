@@ -27,7 +27,9 @@ Developer
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://www.herokucdn.com/favicon.ico" width="36" height="36" alt="Heroku" /></a>
-<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" width="36" height="36" alt="Stripe" /></a> </p>
+<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" width="36" height="36" alt="Stripe" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
 ### Socials
 
