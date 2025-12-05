@@ -31,6 +31,7 @@ Developer
 <a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" width="36" height="36" alt="Stripe" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="26" height="36" alt="Jenkins" /></a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353564/cloudflare.svg" width="36" height="36" alt="Cloudflare" /></a>
 </p>
 
 ### Socials
