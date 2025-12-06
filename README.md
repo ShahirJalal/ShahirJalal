@@ -28,10 +28,11 @@ Developer
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://www.herokucdn.com/favicon.ico" width="36" height="36" alt="Heroku" /></a>
-<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" width="36" height="36" alt="Stripe" /></a>
+<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354401/stripe.svg" width="36" height="36" alt="Stripe" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="26" height="36" alt="Jenkins" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373699/jenkins.svg" width="36" height="36" alt="Jenkins" /></a>
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353564/cloudflare.svg" width="36" height="36" alt="Cloudflare" /></a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="36" height="36" alt="Ubuntu Linux" /></a>
 </p>
 
 ### Socials
